@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? family= Edu+TAS+Beginner:wght@600 & display=swap');
+
+body{
+    background: rgba(250, 191, 164, 0.884);
+    color: #181817;
+}
+.clock{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.frase{
+    padding: 90px;
+    text-align: right;
+    font-size: large;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+img{
+    position: absolute;
+    padding-top: 50px;
+}
+.autora{
+    padding-top: 150px;
+    text-align: right;
+    font-size: medium;
+}
